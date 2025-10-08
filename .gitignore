@@ -1,3 +1,7 @@
+test_cpu
+test_memory
+test_alu
+test_gates
 *.swo
 *.swp
 *~
