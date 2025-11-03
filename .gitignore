@@ -1,3 +1,7 @@
+hack_assembler
+test_utils
+test_filereader
+test_asmtranslator
 test_cpu_instructions
 test_computer
 hackdb
