@@ -9,7 +9,7 @@ namespace hack
   {
   }
 
-  bool FileReader::open(const char* filename)
+  bool FileReader::open(const char* filename, bool stripWhitespace)
   {
     return false;
   }

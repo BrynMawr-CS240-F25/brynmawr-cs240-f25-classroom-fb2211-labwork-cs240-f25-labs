@@ -1,0 +1,5 @@
+// Sets temp 6 = temp 3 = 111
+push constant 2048
+pop pointer 0
+push constant 2058
+pop pointer 1

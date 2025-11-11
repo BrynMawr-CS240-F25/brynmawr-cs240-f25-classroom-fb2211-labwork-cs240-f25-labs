@@ -1,0 +1,13 @@
+push constant 2
+push constant 1
+lt
+not
+if-goto L1
+push constant 3
+pop temp 0
+goto L2
+label L1
+push constant 4
+pop temp 1
+label L2
+goto L2

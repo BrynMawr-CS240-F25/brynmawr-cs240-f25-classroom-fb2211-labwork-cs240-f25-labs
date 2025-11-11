@@ -1,0 +1,6 @@
+push constant 2048
+pop pointer 1
+push constant 8
+pop that 2
+push that 2
+pop that 0

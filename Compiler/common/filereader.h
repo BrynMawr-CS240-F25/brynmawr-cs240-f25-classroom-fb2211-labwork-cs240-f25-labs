@@ -12,7 +12,7 @@ namespace hack
     FileReader();
     virtual ~FileReader();
 
-    bool open(const char* filename);
+    bool open(const char* filename, bool stripWhitespace = true);
     bool hasMoreLines() const;
     const char* line() const;
     void advance();

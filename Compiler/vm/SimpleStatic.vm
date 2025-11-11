@@ -1,0 +1,5 @@
+// Sets temp 8 = temp 3 = 111
+push constant 111
+pop static 8
+push static 8
+pop static 3

@@ -1,3 +1,5 @@
+test_readvm
+test_vmparser
 hack_assembler
 test_utils
 test_filereader

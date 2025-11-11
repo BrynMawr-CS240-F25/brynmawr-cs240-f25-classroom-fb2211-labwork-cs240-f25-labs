@@ -1,0 +1,5 @@
+// Sets temp 6 = temp 3 = 111
+push constant 111
+pop temp 6
+push temp 6
+pop temp 3

@@ -1,0 +1,20 @@
+#! /usr/bin/bash
+
+./vmcompiler vm/SimpleAdd.vm
+./vmcompiler vm/SimpleAnd.vm
+./vmcompiler vm/SimpleArgument.vm
+./vmcompiler vm/SimpleConstant.vm
+./vmcompiler vm/SimpleEq.vm
+./vmcompiler vm/SimpleGt.vm
+./vmcompiler vm/SimpleLocal.vm
+./vmcompiler vm/SimpleLt.vm
+./vmcompiler vm/SimpleNeg.vm
+./vmcompiler vm/SimpleNot.vm
+./vmcompiler vm/SimpleOr.vm
+./vmcompiler vm/SimplePointer.vm
+./vmcompiler vm/SimpleStatic.vm
+./vmcompiler vm/SimpleSub.vm
+./vmcompiler vm/SimpleTemp.vm
+./vmcompiler vm/SimpleThat.vm
+./vmcompiler vm/SimpleThis.vm
+./vmcompiler vm/StackTest.vm
